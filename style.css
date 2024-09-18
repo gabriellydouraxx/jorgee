@@ -1,0 +1,9 @@
+:root{
+    --cor-principal:black;
+    --cor-segundaria: black;
+    --cor-botao: red;
+    --cor-fundo:white;
+}
+body{
+    background-color: van (--cor-fundo);
+}
